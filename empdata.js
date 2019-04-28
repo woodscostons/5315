@@ -57,68 +57,68 @@
       "extension": "8128"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "name": "Ken Star",
+      "designation": "Senior Account Executive",
+      "salary": "$490,100",
+      "joining_date": "2010/02/18",
+      "office": "Seattle",
+      "extension": "8129"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "name": "Connie Adams",
+      "designation": "Account Developer",
+      "salary": "$200,750",
+      "joining_date": "2018/04/12",
+      "office": "Seattle",
+      "extension": "8130"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "name": "Dan Ricks",
+      "designation": "Account Associate",
+      "salary": "$100,000",
+      "joining_date": "2018/10/31",
+      "office": "Seattle",
+      "extension": "8131"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "name": "Chandler Jones",
+      "designation": "Account Associate",
+      "salary": "$125,500",
+      "joining_date": "2016/09/01",
+      "office": "Seattle",
+      "extension": "8132"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "name": "Rhonda Laurie",
+      "designation": "Account Specialist",
+      "salary": "$250,750",
+      "joining_date": "2012/10/22",
+      "office": "Seattle",
+      "extension": "8133"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "name": "Sara Fromm",
+      "designation": "Sr. VP of Sales",
+      "salary": "$900,000",
+      "joining_date": "1991/01/29",
+      "office": "Seattle",
+      "extension": "8121"
     },
     {
-      "name": "Jena Gaines",
+      "name": "Jen Close",
       "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "salary": "$95,600",
+      "joining_date": "2007/11/09",
+      "office": "Seattle",
+      "extension": "8134"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "name": "Flynn Haddock",
+      "designation": "Account Manager",
+      "salary": "$372,000",
+      "joining_date": "2017/06/04",
+      "office": "Seattle",
+      "extension": "8135"
     }
   ]
 }
