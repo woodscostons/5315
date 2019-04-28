@@ -9,12 +9,12 @@
       "extension": "8122"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "name": "William Son",
+      "designation": "Account Executive",
+      "salary": "$350,000",
+      "joining_date": "2014/11/05",
+      "office": "Seattle",
+      "extension": "8123"
     },
     {
       "name": "Ashton Cox",
